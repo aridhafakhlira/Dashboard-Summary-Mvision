@@ -1,6 +1,6 @@
 # Dashboard Summary Mvision
 
-![Judul Gambar](judul_dashboard.png)
+![DTH Dashboard - Summary MV](judul_dashboard.png)
 
 
 ## Pendahuluan
